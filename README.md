@@ -5,10 +5,10 @@ An interactive Power BI dashboard designed to analyze Udemy course data, focusin
 ---
 
 ## 📌 Key Metrics Overview
-* **Total Courses:** 602
-* **Total Lectures:** ~19K
-* **Total Subscribers:** 1M+
-* **Total Reviews:** 37K
+* **Total Courses:** 4K
+* **Total Lectures:** ~148K
+* **Total Subscribers:** 12M+
+* **Total Reviews:** 574K
 * **Price Range:** Free ($0) to $200 (Average: $57.89)
 
 ---
