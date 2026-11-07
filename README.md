@@ -3,6 +3,7 @@
 An interactive Power BI dashboard designed to analyze Udemy course data, focusing on pricing structures, course content metrics, subscriber distribution, and subject performance.
 
 <img width="800" height="448" alt="Udemy_Courses" src="./images/Power_BI Dashboard_Data_Analysis.gif" />
+<img src="C:\Users\HP\Videos\Captures\Power_BIDashboard_Data_Analysis.gif" width="500" alt="وصف الصورة">
 ---
 
 ## 📌 Key Metrics Overview
